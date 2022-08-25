@@ -1,0 +1,3 @@
+[submodule "src/pgWizard"]
+	path = src/pgWizard
+	url = https://github.com/said-deveaser/pg_wizard.git
